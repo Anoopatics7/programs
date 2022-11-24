@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663608636 source:c:\users\anoop\documents\github\programs\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

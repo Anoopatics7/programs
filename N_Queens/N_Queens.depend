@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663718898 source:c:\users\anoop\documents\github\programs\n_queens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

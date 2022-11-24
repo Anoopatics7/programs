@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663608560 source:c:\users\anoop\documents\github\programs\insertionsort\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

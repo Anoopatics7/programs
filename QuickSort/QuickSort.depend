@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663650484 source:c:\users\anoop\documents\github\programs\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

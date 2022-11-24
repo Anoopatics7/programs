@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663644525 source:c:\users\anoop\documents\github\programs\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

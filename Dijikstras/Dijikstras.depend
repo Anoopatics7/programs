@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663675961 source:c:\users\anoop\documents\github\programs\dijikstras\main.c
+	<stdio.h>
+	<stdlib.h>
+
